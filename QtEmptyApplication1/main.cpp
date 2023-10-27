@@ -11,3 +11,4 @@ int main(int argc, char* argv[]) {
     return app.exec();
 }
 //acesta este un comentariu taskA
+//acesta e task Bb
